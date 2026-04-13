@@ -70,7 +70,7 @@
                 <img src="https://img.icons8.com/ios-filled/50/0044cc/money-bag.png"><div>Cash Out</div>
             </div>
             <div class="menu-item">
-                <a href="https://wa.me/2348072850560?text=Hey I am using moniepoint pay" style="text-decoration:none;color:inherit;display:block;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+                <a href="https://wa.me/2348052357017?text=Hey I am using moniepoint pay" style="text-decoration:none;color:inherit;display:block;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
                     <img src="https://img.icons8.com/ios-filled/50/0044cc/headphones.png"><div>Support</div>
                 </a>
             </div>
