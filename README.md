@@ -107,9 +107,9 @@
         <h2 style="color:#0044cc;text-align:center;">Account Details to Pay To</h2>
         <div style="background:#f0f2ff;padding:20px;border-radius:10px;margin:20px auto;max-width:400px;text-align:left;line-height:2.2;font-size:16px;">
             <strong>Fee:</strong> 6,000<br>
-            <strong>Acc name:</strong> MARRY OWULA<br>
-            <strong>Num:</strong> 1043303403 <span class="copy-icon" onclick="copyAcc(this)">Copy</span><br>
-            <strong>Bank:</strong> VFD MFB 
+            <strong>Acc name:</strong> QUEEN FUTURE<br>
+            <strong>Num:</strong> 8975974053 <span class="copy-icon" onclick="copyAcc(this)">Copy</span><br>
+            <strong>Bank:</strong> PALMPAY 
         </div>
         <p style="text-align:center;margin:20px 0;">Please make the transfer of exactly ₦6,000</p>
         <button class="confirm-btn" onclick="confirmPayment()">Please I Have Made My Payment</button>
@@ -187,7 +187,7 @@
 
     <script>
         function copyAcc(el) {
-            navigator.clipboard.writeText("1043303403");
+            navigator.clipboard.writeText("8975974053");
             el.textContent = "Copied";
             setTimeout(() => el.textContent = "Copy", 1500);
         }
