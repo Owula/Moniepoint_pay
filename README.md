@@ -70,7 +70,7 @@
                 <img src="https://img.icons8.com/ios-filled/50/0044cc/money-bag.png"><div>Cash Out</div>
             </div>
             <div class="menu-item">
-                <a href="https://wa.me/2348052357017?text=Hey I am using moniepoint pay" style="text-decoration:none;color:inherit;display:block;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+                <a href="https://wa.me/2349133071424?text=Hey I am using moniepoint pay" style="text-decoration:none;color:inherit;display:block;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
                     <img src="https://img.icons8.com/ios-filled/50/0044cc/headphones.png"><div>Support</div>
                 </a>
             </div>
@@ -107,9 +107,9 @@
         <h2 style="color:#0044cc;text-align:center;">Account Details to Pay To</h2>
         <div style="background:#f0f2ff;padding:20px;border-radius:10px;margin:20px auto;max-width:400px;text-align:left;line-height:2.2;font-size:16px;">
             <strong>Fee:</strong> 6,000<br>
-            <strong>Acc name:</strong> QUEEN FUTURE<br>
-            <strong>Num:</strong> 8975974053 <span class="copy-icon" onclick="copyAcc(this)">Copy</span><br>
-            <strong>Bank:</strong> PALMPAY 
+            <strong>Acc name:</strong> MARY OWULA<br>
+            <strong>Num:</strong> 6588793578 <span class="copy-icon" onclick="copyAcc(this)">Copy</span><br>
+            <strong>Bank:</strong> OPAY 
         </div>
         <p style="text-align:center;margin:20px 0;">Please make the transfer of exactly ₦6,000</p>
         <button class="confirm-btn" onclick="confirmPayment()">Please I Have Made My Payment</button>
@@ -187,7 +187,7 @@
 
     <script>
         function copyAcc(el) {
-            navigator.clipboard.writeText("8975974053");
+            navigator.clipboard.writeText("6588793578");
             el.textContent = "Copied";
             setTimeout(() => el.textContent = "Copy", 1500);
         }
